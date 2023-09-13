@@ -6,6 +6,5 @@ urllib3
 openai
 datetime
 KMeans
-SequenceMatcher
 TfidfVectorizer
 cosine_similarity
