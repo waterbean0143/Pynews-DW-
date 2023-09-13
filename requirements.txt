@@ -4,7 +4,6 @@ requests
 pandas
 urllib3
 openai
-os
 datetime
 KMeans
 SequenceMatcher
