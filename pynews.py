@@ -403,7 +403,7 @@ if st.button("이메일 발송"):
             <tr>
                 <td style="text-align: center;">{date}</td>
                 <td style="vertical-align: middle;"><a href="{link}">{title}</a></td>
-                <td style="vertical-align: middle;">{summarized_content}</td>  # 요약 내용 추가
+                <td style="vertical-align: middle;">{summarized_content}</td>
                 <td style="text-align: center;">{source}</td>
             </tr>
             """
