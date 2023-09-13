@@ -1,0 +1,17 @@
+streamlit
+BeautifulSoup
+requests
+re
+smtplib
+MIMEMultipart
+MIMEText
+MIMEApplication
+pandas
+urllib3
+openai
+os
+datetime
+KMeans
+SequenceMatcher
+TfidfVectorizer
+cosine_similarity
