@@ -1,8 +1,6 @@
 streamlit
 beautifulSoup4
 requests
-MIMEText
-MIMEApplication
 pandas
 urllib3
 openai
