@@ -1,6 +1,5 @@
 streamlit
-BeautifulSoup
-BeautifulSoup4
+beautifulSoup4
 requests
 re
 smtplib
