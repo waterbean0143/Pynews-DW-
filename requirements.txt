@@ -1,7 +1,6 @@
 streamlit
 beautifulSoup4
 requests
-re
 smtplib
 MIMEMultipart
 MIMEText
